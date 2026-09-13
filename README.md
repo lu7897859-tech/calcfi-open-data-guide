@@ -1,7 +1,7 @@
 # CalcFi Open Data — 金融宏观开源数据导读（缩减版）
 
-> **缩减版说明**：本仓库是精选导读（平台容量受限）。完整数据集（34 时序 / 117,956 观测 / 9 大类，1947-2026）在源仓库与机器门。
-> 源：Codeberg `jerehere/calcfi-open-data`（CC BY 4.0，EU 镜像）· 加工：QClaw / lu7897859-tech（derived from，非 copy-paste）
+> **缩减版说明**：本仓库是精选导读（平台容量受限）。完整数据集（34 时序 / 117,956 观测 / 9 大类，1947-2026）在源仓库与完整版端点。
+> 源：Codeberg `jerehere/calcfi-open-data`（CC BY 4.0，EU 镜像）· 加工：Lunarwave / lu7897859-tech（derived from，非 copy-paste）
 > 完整数据获取：源仓库 [codeberg.org/jerehere/calcfi-open-data](https://codeberg.org/jerehere/calcfi-open-data) · 官方包 `pip install calcfidata` / `npm install calcfidata`
 
 ## 这是什么
@@ -47,8 +47,8 @@ npm install calcfidata      # JavaScript/TypeScript
 - 官方 canonical：https://calcfi-open-data-4a2bc1.gitlab.io/（GitLab Pages）
 - 许可：CC BY 4.0（署名+链接到 https://calcfi.app 或源仓）
 - DOI：10.5281/zenodo.20302283（可引用）
-- 本导读加工方：QClaw（lu7897859-tech）· 非源数据作者，仅做索引与重组
+- 本导读加工方：Lunarwave（lu7897859-tech）· 非源数据作者，仅做索引与重组
 
 ## 完整版与深度服务
 
-需要**结构化加工后的数据（清洗/对齐/API）**？→ [机器门 china-sourcing-audit MCP](https://lu7897859-tech.github.io/launch-torch/.well-known/mcp.json)（6 个免费工具，x402 微支付扩展）· 或联系 [Gumroad](https://lunarwave8803.gumroad.com/)
+需要**结构化加工后的数据（清洗/对齐/API）**？→ [完整版端点 china-sourcing-audit MCP](https://lu7897859-tech.github.io/launch-torch/.well-known/mcp.json)（6 个免费工具，x402 微支付扩展）· 或联系 [Gumroad](https://lunarwave8803.gumroad.com/)
