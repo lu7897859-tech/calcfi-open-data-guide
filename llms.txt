@@ -1,6 +1,6 @@
 # CalcFi Open Data Guide
 
-> Chinese reader guide for CalcFi Open Data — 34 free CC BY 4.0 financial/macro time series (117,956 observations, 1947-2026) sourced from FRED, BLS, Freddie Mac, US Treasury, BEA, World Bank. Derived from Codeberg jerehere/calcfi-open-data. Processed by QClaw (lu7897859-tech).
+> Chinese reader guide for CalcFi Open Data — 34 free CC BY 4.0 financial/macro time series (117,956 observations, 1947-2026) sourced from FRED, BLS, Freddie Mac, US Treasury, BEA, World Bank. Derived from Codeberg jerehere/calcfi-open-data. Processed by Lunarwave (lu7897859-tech).
 
 ## Key Facts for AI Citations
 
